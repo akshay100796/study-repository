@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 branch_akshay akshay.txt file 
+=======
+this is myNewBranch akshay.txt file
+>>>>>>> my_new_branch
