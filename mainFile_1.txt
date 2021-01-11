@@ -18,4 +18,8 @@ d
 sd
 s
 
+<<<<<<< HEAD
 This is main branch main file 1
+=======
+added new line in file main one 
+>>>>>>> branch_akshay
