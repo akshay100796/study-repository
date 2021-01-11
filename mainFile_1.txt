@@ -19,7 +19,13 @@ sd
 s
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 This is main branch main file 1
 =======
 added new line in file main one 
 >>>>>>> branch_akshay
+=======
+
+
+added new line in main file in my_new_branch 
+>>>>>>> my_new_branch
